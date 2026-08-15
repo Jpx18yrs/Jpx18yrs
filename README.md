@@ -4,7 +4,8 @@
 ----------------------------------------------------------------
 - **Vision:** La Creación de experiencias inmersivas.
 - **Inteligencia Artificial:** Modelos enfocados en ayudar al ser humano.
-- **Metas:** Dejar una Huella en las personas con mi trabajo. <img width="480" height="270" alt="leanwitmeGIFbyJuiceWRLD" src="https://github.com/user-attachments/assets/c7260035-4300-4748-9f07-768fcbceaa41" />
+- **Metas:** Dejar una Huella en las personas con mi trabajo. ![Uploading soraGIF.gif…]()
+
 
 ---------------------------------------------------------------- 
 
