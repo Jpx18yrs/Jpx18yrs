@@ -1,4 +1,5 @@
-# Hola a todos
+# Hola 🧟‍♀️<img width="480" height="288" alt="WalkingDeadHalloweenGIFbyJukeboxSaints" src="https://github.com/user-attachments/assets/f02310bd-2fd8-4564-8329-830c3e25235c" />
+
 <!--
 **Jpx18yrs/Jpx18yrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
