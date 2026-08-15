@@ -1,5 +1,4 @@
-# Bienvenidos A Mi Perfil ¡! 🧟‍♀️        
-
+# Bienvenidos A Mi Perfil ¡! 🧟‍♀️       
 🏅 **La Inteligencia Artificial es el Futuro Para La Humanidad** 🏅
 ----------------------------------------------------------------
 - **Vision:** La Creación de experiencias inmersivas.
@@ -7,7 +6,7 @@
 - **Metas:** Dejar una Huella en las personas con mi trabajo. 
 ---------------------------------------------------------------- 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jpx18yrs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
