@@ -1,5 +1,6 @@
 # Bienvenidos A Mi Perfil ¡! 🧟‍♀️        
-
+## Soy Un Estudiante de universidad con ganas de aprender sobre la IA. 
+Me gusta la IA y quiero trabajar desarrollando modelos en Videojuegos o haciendo modelos Interactivos para el usuario. 
 
 
 
