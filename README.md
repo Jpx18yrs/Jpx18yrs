@@ -1,3 +1,5 @@
+        <img width="480" height="270" alt="leanwitmeGIFbyJuiceWRLD" src="https://github.com/user-attachments/assets/ae2e354e-f947-4865-bb33-51e9a77ba59e" />
+
 # Hola, Soy Juan Pablo.          <img width="480" height="270" alt="RighteousGIFbyJuiceWRLD" src="https://github.com/user-attachments/assets/d0465302-cc45-4184-b99f-0e8188697412" />
 
 
