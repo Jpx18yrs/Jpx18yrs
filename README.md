@@ -4,9 +4,7 @@
 ----------------------------------------------------------------
 - **Vision:** La Creación de experiencias inmersivas.
 - **Inteligencia Artificial:** Modelos enfocados en ayudar al ser humano.
-- **Metas:** Dejar una Huella en las personas con mi trabajo. ![Uploading soraGIF.gif…]()
-
-
+- **Metas:** Dejar una Huella en las personas con mi trabajo. 
 ---------------------------------------------------------------- 
 
 
