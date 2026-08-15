@@ -1,6 +1,13 @@
 # Bienvenidos A Mi Perfil ¡! 🧟‍♀️        
-## Soy Un Estudiante de universidad con ganas de aprender sobre la IA. 
-Me gusta la IA y quiero trabajar desarrollando modelos en Videojuegos o haciendo modelos Interactivos para el usuario. 
+
+🏅 **La Inteligencia Artificial es el Futuro Para La Humanidad** 🏅
+----------------------------------------------------------------
+- **Vision:** La Creación de experiencias inmersivas.
+- **Inteligencia Artificial:** Modelos enfocados en ayudar al ser humano.
+- **Metas:** Dejar una Huella en las personas con mi trabajo. <img width="480" height="270" alt="leanwitmeGIFbyJuiceWRLD" src="https://github.com/user-attachments/assets/c7260035-4300-4748-9f07-768fcbceaa41" />
+
+---------------------------------------------------------------- 
+
 
 
 
