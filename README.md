@@ -3,7 +3,7 @@
 ----------------------------------------------------------------
 - **Vision:** La Creación de experiencias inmersivas.
 - **Inteligencia Artificial:** Modelos enfocados en ayudar al ser humano.
-- **Metas:** Dejar una Huella en las personas con mi trabajo. 
+- **Metas:** Desarrollar IAS. 
 ---------------------------------------------------------------- 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
