@@ -6,6 +6,13 @@
 - **Metas:** Desarrollar IAS. 
 ---------------------------------------------------------------- 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mendiolaleonel2002-debug/mendiolaleonel2002-debug/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mendiolaleonel2002-debug/mendiolaleonel2002-debug/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mendiolaleonel2002-debug/mendiolaleonel2002-debug/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 
 
