@@ -6,7 +6,7 @@
 - **Metas:** Desarrollar IAS. 
 ---------------------------------------------------------------- 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://raw.githubusercontent.com/Jpx18yrs/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Jpx18yrs/Jpx18yrs/main/github-contribution-grid-snake.svg)
 
 
 
