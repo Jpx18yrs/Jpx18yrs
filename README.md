@@ -6,6 +6,8 @@
 - **Metas:** Desarrollar IAS. 
 ---------------------------------------------------------------- 
 [![My Skills](https://skillicons.dev/icons?i=discord,github,instagram,linux,py,vscode,bots&perline=10)](https://skill-icons-builder.vercel.app/)
+[![My Skills](https://skillicons.dev/icons?i=windows&perline=10)](https://skill-icons-builder.vercel.app/)
+-----------------------------------------------------------------
 
 
 
