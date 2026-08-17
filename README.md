@@ -5,7 +5,6 @@
 - **Inteligencia Artificial:** Modelos enfocados en ayudar al ser humano.
 - **Metas:** Desarrollar IAS. 
 ---------------------------------------------------------------- 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 [![My Skills](https://skillicons.dev/icons?i=discord,github,instagram,linux,py,vscode,bots&perline=10)](https://skill-icons-builder.vercel.app/)
 
 
