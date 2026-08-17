@@ -2,16 +2,13 @@
 🏅 **La Inteligencia Artificial es el Futuro Para La Humanidad** 🏅
 ----------------------------------------------------------------
 - **Vision:** La Creación de experiencias inmersivas.
-- **Inteligencia Artificial:** Modelos enfocados en ayudar al ser humano.
+- **Inteligencia Artificial:** Modelos enfocados en ayudar al ser humano.   <!-- Mi medio de contacto es IG: jpdstroy2019-->   
 - **Metas:** Desarrollar IAS. 
 ---------------------------------------------------------------- 
 [![My Skills](https://skillicons.dev/icons?i=discord,github,instagram,linux,py,vscode,bots&perline=10)](https://skill-icons-builder.vercel.app/)
 [![My Skills](https://skillicons.dev/icons?i=windows&perline=10)](https://skill-icons-builder.vercel.app/)
 [![My Skills](https://skillicons.dev/icons?i=git,mint,powershell,twitter&perline=10)](https://skill-icons-builder.vercel.app/)
 -----------------------------------------------------------------
-¨¨¨
-Hola
-¨¨¨
 
 
 
